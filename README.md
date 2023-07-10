@@ -1,4 +1,4 @@
-# Flixters-Part-2
+# Flixters
 
 Submitted by: **Kuzivakwashe Mavera**
 
